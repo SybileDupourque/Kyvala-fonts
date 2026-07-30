@@ -1,5 +1,7 @@
 @font-face {
   font-family: 'Bohem Press';
-  src: url('https://sibyledupourque.github.io/Kyvala-fonts/Bohem%20Press%20Free.ttf') format('truetype');  font-weight: normal;
+  src: url('https://cdn.jsdelivr.net/gh/SibyleDupourque/Kyvala-fonts@main/Bohem%20Press%20Free.woff2') format('woff2');
+  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
